@@ -6,8 +6,7 @@
 
 @media screen and (max-width: 457px) {
   .menu {
-    max-height: 2244px;
-    min-width: none;
+    max-height: max-content;
     background-color: white;
   }
 }
